@@ -1,5 +1,6 @@
 {
   "name": "angular-twitch-emotes",
+  "version": "0.0.0",
   "authors": [
     "Jeremy Stover(Kadajett) <jeremy.ryan.stover@gmail.com>"
   ],
@@ -27,5 +28,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "~1.4.5"
+  }
 }
