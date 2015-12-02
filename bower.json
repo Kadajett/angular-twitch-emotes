@@ -1,0 +1,31 @@
+{
+  "name": "angular-twitch-emotes",
+  "authors": [
+    "Jeremy Stover(Kadajett) <jeremy.ryan.stover@gmail.com>"
+  ],
+  "description": "A collection of functionality that will make using twitch emotes in Angular Apps far more simple",
+  "main": "angularTwitchEmotes.js",
+  "moduleType": [],
+  "keywords": [
+    "twitch",
+    "emotes",
+    "twitch",
+    "emotes",
+    "directive",
+    "service",
+    "angularjs",
+    "module",
+    "twitch",
+    "emotes",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Kadajett/angular-twitch-emotes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
